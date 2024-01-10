@@ -15,7 +15,10 @@
 <p align="center">
 
 
-![Screenshot_2024-01-10-22-48-32-
+![Screenshot_2024-01-10-22-52-52-39_e36872cd03453bb5e33ec96ae2d9a765](https://github.com/jabarxz/newsc/assets/116131941/e6271d5a-95fc-4d84-9ea0-6b0c69eb290f)
+![Screenshot_2024-01-10-22-53-06-95_e36872cd03453bb5e33ec96ae2d9a765](https://github.com/jabarxz/newsc/assets/116131941/a4e1fa54-f02b-490f-88d9-d58f3b6cfe1e)
+![Screenshot_2024-01-10-22-53-24-54_e36872cd03453bb5e33ec96ae2d9a765](https://github.com/jabarxz/newsc/assets/116131941/ae63c210-f0a7-49c8-9c9a-bc55a148c856)
+
 
 ## Register IP ( PM username & IP-VPS ) : <a href="https://t.me/Syberleno" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
