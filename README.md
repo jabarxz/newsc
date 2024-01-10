@@ -15,6 +15,9 @@
 <p align="center">
 
 
+![Screenshot_2024-01-10-22-48-32-57_3d419158bad5872c40592a6c9956e692](https://github.com/jabarxz/newsc/assets/116131941/ddeccec3-5712-4800-b892-c544d28794e5)
+![Screenshot_2024-01-10-22-48-50-34_3d419158bad5872c40592a6c9956e692](https://github.com/jabarxz/newsc/assets/116131941/91017929-d749-4fe1-9443-37969de53763)
+
 ## Register IP ( PM username & IP-VPS ) : <a href="https://t.me/Syberleno" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 ## ⚠️ PLEASE README ⚠️
